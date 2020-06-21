@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="13.996" height="28.346" viewBox="0, 0, 13.996, 28.346">
+  <g id="copper1">
+    <path d="M3.455,-0 L10.541,-0 L10.541,7.087 L3.455,7.087 L3.455,-0 z" fill="#FF9500"/>
+    <path d="M-0,21.26 L5.669,21.26 L5.669,28.346 L-0,28.346 L-0,21.26 z" fill="#FF9500"/>
+    <path d="M8.327,21.26 L13.996,21.26 L13.996,28.346 L8.327,28.346 L8.327,21.26 z" fill="#FF9500"/>
+  </g>
+</svg>
